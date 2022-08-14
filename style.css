@@ -1,0 +1,75 @@
+/* google fonts */
+@import url("https://fonts.googleapis.com/css2?family=Poppins&display=swap");
+* {
+  margin: 0;
+  padding: 0;
+  font-family: "Poppins", sans-serif;
+}
+.top-banner {
+  background-color: #e6d6d7;
+}
+
+.top-banner-title,
+.product-title,
+.durable-title {
+  color: #1d1d1c;
+}
+.top-banner-desc,
+.product-desc,
+.durable-desc,
+.features-desc
+ {
+  color: #1d1d1c;
+  line-height: 2;
+}
+.buy-now {
+  background-color: #5a422c;
+  padding-left: 30px;
+  padding-right: 30px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  border-radius: 20px;
+  color: white;
+  border: none;
+}
+.features-category-images {
+  width: 90px;
+}
+.input-number {
+  width: 60px;
+  height: 45px;
+  text-align: center;
+  border: 1px solid;
+  margin: 0 4px;
+  padding-left: 10px;
+  border-radius: 4px;
+}
+.features-title {
+  font-size: 10px;
+  color: gray;
+}
+.features-buy {
+  color: #fff;
+  padding-left: 30px;
+  padding-right: 30px;
+  font-size: 18px;
+  border-radius: 20px;
+  background-color: #5a432d;
+  width: 100%;
+  margin-bottom: 10px;
+  border: none;
+}
+.product-buy {
+  margin-left: 90px;
+  background-color: #5a422c;
+  padding-left: 30px;
+  padding-right: 30px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  border-radius: 20px;
+  color: white;
+  border: none;
+}
+.guarantee {
+  background-color: #e7d7d7;
+}
